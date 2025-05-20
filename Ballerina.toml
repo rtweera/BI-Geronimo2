@@ -1,0 +1,8 @@
+[package]
+org = "Ravindu"
+name = "test_geronimo"
+version = "0.1.0"
+[[tool.openapi]]
+id = "Serper"
+targetModule = "Serper"
+filePath = "c:\\Users\\Ravindu\\Downloads\\serper.json"
